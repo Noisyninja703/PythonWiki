@@ -11,5 +11,5 @@ A simple python logic and instruction document, for learning and remembering the
     - 2D list (grids)
     - Stacks
  - Basic loops (for, while)
- - Basic Error Handling (try, exception)
+ - Basic Error Handling (try, catch exception)
 
